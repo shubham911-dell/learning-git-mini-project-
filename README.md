@@ -1,4 +1,5 @@
 # learning-git-mini-project-
 
 we are learning git and github
-helllo  
+hello we are building something new!
+
